@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Define the directory to organize
-directory = r'C:\Users\LENARD\Downloads'  # Update this path to your target directory
+directory = r'C:\Users\Downloads'  # Update this path to your target directory
 
 # Define the file type categories and their corresponding extensions
 file_types = {
