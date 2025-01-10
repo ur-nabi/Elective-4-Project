@@ -28,7 +28,7 @@ def send_email(to_address, subject, message):
 
 # Example usage
 if __name__ == "__main__":
-    recipient = 'lenardabagat649@gmail.com'
+    recipient = 'lyjumawid@gmail.com'
     subject = 'Test Subject'
     body = 'This is a test email sent via Python.'
     send_email(recipient, subject, body)
